@@ -72,6 +72,10 @@ pip install librosa soundfile scikit-learn numpy
 # Run all cells in Speechemotion_mlp.ipynb
 ```
 
+#output
+<img width="718" height="431" alt="Screenshot 2026-04-10 144534" src="https://github.com/user-attachments/assets/f0c53582-f7b4-43d6-9b7d-2f40ab2114f5" />
+
+
 ## Key Findings
 
 - Best performance on **Angry** class (94% precision)
