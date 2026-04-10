@@ -73,6 +73,8 @@ pip install librosa soundfile scikit-learn numpy
 ```
 
 #output
+<img width="445" height="148" alt="Screenshot 2026-04-10 144518" src="https://github.com/user-attachments/assets/504287b8-f806-492e-bd7c-f02bbbc3ea0a" />
+
 <img width="718" height="431" alt="Screenshot 2026-04-10 144534" src="https://github.com/user-attachments/assets/f0c53582-f7b4-43d6-9b7d-2f40ab2114f5" />
 
 
